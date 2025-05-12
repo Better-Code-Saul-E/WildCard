@@ -1,7 +1,7 @@
 # Wild Card - Console Card Games
 
 ## Description
-Wild Card is a C# console application featuring three engaging single-player card games: "Same or Different?", "Higher or Lower?", and "Highest Match". The project emphasizes modular and reusable code for common elements like card creation, deck handling, and game logic comparisons, showcasing principles of abstraction and flexibility.
+Wild Card is a C# console application featuring three engaging single-player card games: "Same or Different?", "Higher or Lower?", and "Highest Match". Common elements like card creation, deck handling, and game logic comparisons are built using modular, reusable code to emphasize abstraction and flexibility across all three games.
 
 ## Key Features
 * **Three Games in One:**
@@ -14,4 +14,5 @@ Wild Card is a C# console application featuring three engaging single-player car
 
 ## Built With
 * C#
-* .NET Console Application
+* .NET
+* Developed using Visual Studio and Visual Studio Code
